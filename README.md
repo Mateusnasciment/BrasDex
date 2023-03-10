@@ -16,7 +16,7 @@
 
 
 
-O malware é um tipo de software malicioso que pode infectar computadores e dispositivos móveis, afetando diversos aspectos, inclusive as transações bancárias. Existem várias formas de malware, incluindo o Trojan (ou Cavalo de Troia), que se disfarça como um software legítimo para enganar o usuário e invadir seu sistema.
+BrasDex  malware é um tipo de software malicioso que pode infectar computadores e dispositivos móveis, afetando diversos aspectos, inclusive as transações bancárias. Existem várias formas de malware, incluindo o Trojan (ou Cavalo de Troia), que se disfarça como um software legítimo para enganar o usuário e invadir seu sistema.
 
 O objetivo do malware de transações bancárias é roubar informações confidenciais do usuário, como senhas, números de cartão de crédito e outras informações financeiras. Ele pode ser transmitido por meio de e-mails de phishing, downloads de arquivos suspeitos ou sites maliciosos.
 
