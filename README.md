@@ -1,4 +1,16 @@
-# BrasDex
+# 8 888888888o   8 888888888o.            .8.             d888888o.   8 888888888o.      8 8888888888   `8.`8888.      ,8'
+8 8888    `88. 8 8888    `88.          .888.          .`8888:' `88. 8 8888    `^888.   8 8888          `8.`8888.    ,8'
+8 8888     `88 8 8888     `88         :88888.         8.`8888.   Y8 8 8888        `88. 8 8888           `8.`8888.  ,8'
+8 8888     ,88 8 8888     ,88        . `88888.        `8.`8888.     8 8888         `88 8 8888            `8.`8888.,8'
+8 8888.   ,88' 8 8888.   ,88'       .8. `88888.        `8.`8888.    8 8888          88 8 888888888888     `8.`88888'
+8 8888888888   8 888888888P'       .8`8. `88888.        `8.`8888.   8 8888          88 8 8888             .88.`8888.
+8 8888    `88. 8 8888`8b          .8' `8. `88888.        `8.`8888.  8 8888         ,88 8 8888            .8'`8.`8888.
+8 8888      88 8 8888 `8b.       .8'   `8. `88888.   8b   `8.`8888. 8 8888        ,88' 8 8888           .8'  `8.`8888.
+8 8888    ,88' 8 8888   `8b.    .888888888. `88888.  `8b.  ;8.`8888 8 8888    ,o88P'   8 8888          .8'    `8.`8888.
+8 888888888P   8 8888     `88. .8'       `8. `88888.  `Y8888P ,88P' 8 888888888P'      8 888888888888 .8'      `8.`8888.
+
+
+
 O malware é um tipo de software malicioso que pode infectar computadores e dispositivos móveis, afetando diversos aspectos, inclusive as transações bancárias. Existem várias formas de malware, incluindo o Trojan (ou Cavalo de Troia), que se disfarça como um software legítimo para enganar o usuário e invadir seu sistema.
 
 O objetivo do malware de transações bancárias é roubar informações confidenciais do usuário, como senhas, números de cartão de crédito e outras informações financeiras. Ele pode ser transmitido por meio de e-mails de phishing, downloads de arquivos suspeitos ou sites maliciosos.
