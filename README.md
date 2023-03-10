@@ -27,3 +27,14 @@ A dedicação exclusiva ao mercado brasileiro pode ser explicada pelo fato de qu
 O BrasDex é especialmente perigoso porque é capaz de interceptar informações sensíveis, como senhas e outras credenciais bancárias, e realizar transações fraudulentas de forma automatizada. Ao explorar as vulnerabilidades do sistema Pix, os criminosos conseguem roubar dinheiro das contas dos usuários sem que estes percebam.
 
 Para se proteger do BrasDex e outros malwares, é importante adotar boas práticas de segurança digital, como manter o sistema operacional e os aplicativos atualizados, usar um software antivírus confiável, evitar clicar em links suspeitos e utilizar conexões seguras e confiáveis para acessar contas bancárias online. Além disso, é importante ficar atento a mensagens ou e-mails suspeitos, que podem ser usados para disseminar malwares ou phishing.
+
+
+
+
+O vírus BrasDex é uma ameaça perigosa para dispositivos Android, pois se enquadra nas categorias de malware bancário e aplicação maliciosa. Ele pode ser detectado por vários antivírus, incluindo Avast, DrWeb, ESET-NOD32 e Kaspersky, que o identificam como um Trojan-Banker e BankBot.
+
+Os sintomas da infecção incluem desempenho lento do dispositivo, configurações modificadas sem a permissão do usuário, aplicações questionáveis aparecendo, aumento significativo no uso da bateria e nos dados, redirecionamento do navegador para sites duvidosos e anúncios intrusivos sendo exibidos.
+
+O BrasDex é distribuído por anexos de e-mail infectados, anúncios online maliciosos, engenharia social, aplicações fraudulentas e sites fraudulentos. Quando infecta um dispositivo, ele pode roubar informações pessoais, como mensagens privadas, logins e senhas, causar perda de dados e monetária, além de comprometer a identidade do usuário.
+
+Para remover o BrasDex e outras infecções por malware, é recomendado verificar o dispositivo Android com um software antimalware legítimo, como Avast, Bitdefender, ESET ou Malwarebytes. É importante tomar medidas preventivas para evitar a infecção, como evitar clicar em links desconhecidos, baixar aplicativos apenas de fontes confiáveis e manter o sistema operacional atualizado.
